@@ -21,7 +21,7 @@ Before using BankApp, you need to set up the required environment and dependenci
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/bankapp.git
+   git clone https://github.com/Sevenwings26/BankingApp-Designed_on_Python.git
    ```
 
 2. **Install Dependencies:**
